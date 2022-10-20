@@ -3,6 +3,10 @@
 [![](https://img.shields.io/static/v1?message=Open%20in%20Colab&logo=googlecolab&labelColor=5c5c5c&color=0f80c1&label=%20&style=for-the-badge)](https://colab.research.google.com/github/ddPn08/stable-diffusion-webui-colab/blob/main/automatic1111.ipynb)
 
 # Features
+- Xformers support
+  - Using Miniconda to make Xformers available.
+- Fast setup
+  - If you have space in Google Drive, you can save your environment for faster setup.
 - Model download support
   - Any model on the internet can be downloaded by entering the URL
 - Google Drive support
