@@ -14,8 +14,8 @@ https://github.com/ddPn08/automatic1111-colab/wiki
   - Any model on the internet can be downloaded by entering the URL
 - Google Drive support
   - You can also save output images, models, embeddings, configuration files, etc...
-- Ngrok tunneling support
-  - You can use Ngrok tunneling for more stable communication.
+- Low RAM patch
+  - You can run models that require a lot of RAM, such as StableDiffusion 2.1, even with the free Colab.
 - Advanced options
   - You can easily change advanced options by simply clicking a checkbox.
 
